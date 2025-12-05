@@ -1,2 +1,4 @@
 # polycode
-a colloborative code editing platfrom
+A colloborative code editing platfrom
+# BACKEND
+- **Y.js** with **CRDT** 
